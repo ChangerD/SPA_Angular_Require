@@ -1,0 +1,17 @@
+/**
+ * JWDING
+ */
+一、命名规范
+    1.文件名采用小写
+    2.服务:xxxService
+      指令:xxxDirective
+      过滤器:xxxFilter
+      控制器:xxxCtrl
+
+二、注意事项
+    1.不要用console.log,统一使用debug.print打印日志
+    2.每个文件要声明作者，快速定位问题
+    3.1rem==deviceWidth/6.4
+    4.***如果不到万不得已不要在Controller中通过jquery操作dom
+
+
